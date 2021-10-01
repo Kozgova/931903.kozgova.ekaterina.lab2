@@ -1,0 +1,60 @@
+body 
+{
+    margin:10px;
+}
+.first
+{
+    background-color:blueviolet ;
+    color: white ;
+    width: 150px;
+    height: 100px;
+    position: static;
+}
+.second
+{
+    background-color:darkred ;
+    color: white ;
+    width: 150px;
+    height: 100px;
+    position: relative bottom;  
+}
+.third
+{
+    background-color:peru ;
+    color: white ;
+    width: 150px;
+    height: 100px;
+    position: relative;  
+    top: -25px;
+    right: -25px;
+}
+.fourth
+{
+    background-color:indianred ;
+    color: white ;
+    width: 650px;
+    height: 350px;
+    position: relative;
+    margin-bottom: 200px;  
+    z-index: 1;
+}
+.fifth
+{
+    background-color: indigo ;
+    color: white ;
+    width: 300px;
+    height: 180px;
+    position: absolute;  
+    top: +100px;
+    right: 0;
+}
+.sixth
+{
+    background-color: forestgreen ;
+    color: white ;
+    width: 80px;
+    height: 80px;
+    position: fixed; 
+    right: 0;
+    bottom: 0;
+}

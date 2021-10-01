@@ -1,0 +1,18 @@
+body
+{
+  margin:auto;  
+}
+.blok 
+{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    background-color:aquamarine;
+}
+
+.lin 
+{
+    background-color:#faebd7;
+    margin-bottom: 20px;
+}

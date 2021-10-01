@@ -1,0 +1,40 @@
+body 
+{
+    margin:0;
+}
+header
+{
+    background-color: #EAEAEA;
+    text-align: left;
+    color: black;
+    padding-top: 0;
+    padding-bottom: 2rem;
+    font-size: 30px;
+    
+}
+.left
+{
+    background-color: #C8FC98;
+    text-align: left;
+    color: black;
+    padding-top: 0;
+    width: 200px;
+    height: 100%;
+    float:left;
+
+}
+i
+{
+    color: red;
+}
+a
+{
+    color:yellow;
+}
+footer
+{
+    background-color: black;
+    padding-bottom: 0;
+    text-align: center;
+    clear: both;
+}

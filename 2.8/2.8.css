@@ -1,0 +1,34 @@
+body 
+{
+    margin:10px;
+}
+.first
+{
+    background-color: bisque ;
+    color: black ;
+    width: 160px;
+    height: 85px;
+    position: absolute;
+}
+.second
+{
+    background-color: aqua ;
+    width:100%;
+    position: absolute;
+}
+.third
+{
+    background-color: darkgray ;
+    color: black ;
+    position: absolute;
+    margin-left: 160px;
+} 
+footer
+{
+     background-color: limegreen;
+     height: 80px;
+     right: 0;
+     left: 0;
+     bottom: 0;
+     position: fixed;
+}
